@@ -14,4 +14,4 @@ class Post(models.Model):
         self.save()
 
     def __str__(self):
-        return str(self.title) + ' by ' + str(self.author)
+        return str(self.title)
