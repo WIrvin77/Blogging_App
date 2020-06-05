@@ -1,0 +1,36 @@
+.page-header {
+    background-color: orange;
+    margin: 0;
+    padding: 20px;
+}
+
+.page-header h1, .page-header h1 a {
+    color: white;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Inconsolata', serif;
+    font-size: 48px;
+}
+
+.date {
+    color: #828282;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h2 a{
+    color: black;
+}
+
+a:hover {
+    background-color: gray;
+}
