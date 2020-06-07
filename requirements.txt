@@ -5,7 +5,7 @@ buttercms-python==0.7
 curtsies==0.2.11
 decorator==4.0.11
 dj-database-url==0.4.2
-Django==1.11
+Django==1.11.29
 django-appconf==1.0.2
 django-avatar==3.1.0
 django-crispy-forms==1.6.1
