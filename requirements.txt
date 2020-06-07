@@ -19,7 +19,7 @@ ipython-genutils==0.2.0
 jedi==0.10.2
 jsonfield==2.0.1
 Markdown==2.6.8
-mistune==0.7.4
+mistune==0.8.1
 olefile==0.44
 pexpect==4.2.1
 pickleshare==0.7.4
